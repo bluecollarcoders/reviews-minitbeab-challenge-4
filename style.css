@@ -34,6 +34,7 @@ p {
 
 .container {
     padding-top: 4rem;
+    padding-bottom: 2rem;
 }
 
 .container h1 {
@@ -99,6 +100,12 @@ p {
   text-transform: uppercase;
   font-weight: bolder;
   font-size: 20px;
+}
+
+.card p{
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
 }
 
 
