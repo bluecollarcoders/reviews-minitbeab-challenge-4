@@ -39,7 +39,8 @@ p {
 .container h1 {
     text-align: center;
     margin-bottom: 80px;
-    font-size: 50px;
+    font-size: 60px;
+    font-weight: bolder;
 }
 
 
